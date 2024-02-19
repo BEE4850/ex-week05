@@ -34,7 +34,7 @@ These are the prerequisites for using the Julia package environment and the note
     cd BEE4850/
     mkdir exercises
     cd exercises/
-    git clone https://github.com/BEE4850/ex-week03.git
+    git clone https://github.com/BEE4850/ex-week05.git
     ```
 
 ## Opening The Notebook
@@ -47,7 +47,7 @@ These are the prerequisites for using the Julia package environment and the note
   - If you're using a different IDE, Google how to make sure that it is set up to run a Julia notebook.
   - If you want to use `IJulia.jl`, open a Julia prompt. You can do this by:
     - Using the `Julia-1.9` or equivalent graphical program, type `cd("BEE4850/exercises")` or whatever path points to your lab notebook folder;
-    - Navigating to your `BEE4850/exercises/ex-week03` folder and typing `julia` to open the prompt. Then:
+    - Navigating to your `BEE4850/exercises/ex-week05` folder and typing `julia` to open the prompt. Then:
     
       ```julia
       import Pkg
